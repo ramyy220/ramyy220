@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ramyy220.png" width="120" alt="Ramy avatar" />
-</p>
 
 <h1 align="center">Ramy AMRANI 👋</h1>
 <p align="center">Software Developer • JavaScript / TypeScript • Python</p>
