@@ -17,11 +17,11 @@ If you want to see my work and contributions from my previous role, click the bu
 ---
 
 ## Tech & favorite tools
-- ⚛️ React, Next.js
-- 🟩 Node.js, Nest, Express
-- 🛠 TypeScript, JavaScript (ES6+)
-- 🧰 Docker, GitHub Actions, CI/CD
-- 🗄 PostgreSQL, MongoDB
+- ⚛️ React, Vue, Next.js
+- 🟩 Node.js, Nest, Express, Flask
+- 🛠 TypeScript, JavaScript (ES6+), Python
+- 🧰 Docker, GitHub Actions, CI/CD, Kubernetes
+- 🗄 PostgreSQL, MongoDB, MySQL
 
 ---
 
