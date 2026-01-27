@@ -25,16 +25,6 @@ If you want to see my work and contributions from my previous role, click the bu
 
 ---
 
-## Stats & overview
-<!-- Stat card for my current account -->
-<p align="center">
-  <img alt="GitHub Stats for ramy220" src="https://github-readme-stats.vercel.app/api?username=ramyy220&show_icons=true&theme=radical" />
-</p>
-<!-- Stat card for my previous (work) account -->
-<p align="center">
-  <img alt="GitHub Stats for ramy-amrani" src="https://github-readme-stats.vercel.app/api?username=ramy-amrani&show_icons=true&theme=radical" />
-</p>
-
 ---
 
 ## Contact
