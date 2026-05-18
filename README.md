@@ -5,8 +5,6 @@
 ---
 
 ## About
-I build fast, user-friendly web apps. I write clear code and regularly publish my projects as open source.
-
 If you want to see my work and contributions from my previous role, click the button below — everything is there:
 <p align="center">
   <a href="https://github.com/ramy-amrani" target="_blank">
@@ -18,8 +16,8 @@ If you want to see my work and contributions from my previous role, click the bu
 
 ## Tech & favorite tools
 - ⚛️ React, Vue, Next.js
-- 🟩 Node.js, Nest, Express, Flask
-- 🛠 TypeScript, JavaScript (ES6+), Python
+- 🟩 Node.js, Nest, Express, Flask, .NET
+- 🛠 TypeScript, JavaScript (ES6+), Python, C#
 - 🧰 Docker, GitHub Actions, CI/CD, Kubernetes
 - 🗄 PostgreSQL, MongoDB, MySQL
 
